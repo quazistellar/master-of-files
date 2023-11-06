@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\textiktudasuda\bin\Debug\textiktudasuda.exe.config
+C:\Users\User\source\repos\textiktudasuda\bin\Debug\textiktudasuda.exe
+C:\Users\User\source\repos\textiktudasuda\bin\Debug\textiktudasuda.pdb
+C:\Users\User\source\repos\textiktudasuda\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\textiktudasuda\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\textiktudasuda\obj\Debug\textiktudasuda.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\textiktudasuda\obj\Debug\textiktudasuda.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\textiktudasuda\obj\Debug\textiktudasuda.csproj.CopyComplete
+C:\Users\User\source\repos\textiktudasuda\obj\Debug\textiktudasuda.exe
+C:\Users\User\source\repos\textiktudasuda\obj\Debug\textiktudasuda.pdb
